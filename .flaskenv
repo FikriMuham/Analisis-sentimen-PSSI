@@ -1,0 +1,10 @@
+FLASK_APP=run.py
+FLASK_ENV=development
+
+JWT_SECRET=RIZAL123
+
+DB_HOST=localhost
+DB_DATABASE=sentimen_ta
+DB_USERNAME=root
+DB_PASSWORD=
+TF_CPP_MIN_LOG_LEVEL=2
